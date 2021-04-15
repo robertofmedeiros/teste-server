@@ -10,6 +10,7 @@ public class TesteApplication {
 		System.out.println("Teste para o jenkins");
 		System.out.println("Testando logs");
 		System.out.println("Pausando");
+		System.out.println("T1");
 		try {
 			Thread.sleep(5000);
 		} catch (InterruptedException e) {
